@@ -30,6 +30,7 @@ Desktop.ini
 
 # ignore Composer downloads
 /vendor/*
+/EcoAdapt/vendor/*
 /Quick_ACG/vendor/*
 
 # keep some hiddens
@@ -39,12 +40,13 @@ Desktop.ini
 
 # ignore twig cache
 /templates/twig_cache/*
+/EcoAdapt/apply.php
+/EcoAdapt/contact_us.php
+/EcoAdapt/signup.php
 
 # do not check in secrets
 ds_config.php
-apply.php
-contact_us.php
-signup.php
+
 private.key
 debug.log
 public/demo_documents/ExportedUserData.csv

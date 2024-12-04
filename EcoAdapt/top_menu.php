@@ -58,6 +58,10 @@ $currentPage = basename($_SERVER['PHP_SELF']);
         <a href="feedback.php" class="nav-item nav-link">Feedback</a>
 
         </div>
+        <div class="nav-item dropdown">
+        <a href="../public/index.php" class="nav-item nav-link">DocuSign Admin</a>
+
+        </div>
     </div>
 
 

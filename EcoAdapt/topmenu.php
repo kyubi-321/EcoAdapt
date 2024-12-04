@@ -18,6 +18,8 @@
             <a href="jobs.php" class="nav-link">Jobs</a>
         </div>
         <a href="feedback.php" class="nav-item nav-link">Feedback</a>
+        <a href="../public/index.php" class="nav-item nav-link">DocuSign Admin</a>
+
 
         <a href="contact_us.php" class="nav-item nav-link">Contact</a>
         <!-- Login Button -->
